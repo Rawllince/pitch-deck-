@@ -4,7 +4,6 @@ Pitch Deck: AquaProsper Africa
 Slide 1: Catchy Phrase / Intro
 "Turning the Tide: Empowering 3 Million Fish Farmers on Lake Victoria"
 📊 Did you know? Over 3 million people rely on Lake Victoria for their livelihood, yet over 60% of fish farmers struggle with poor yields, lack of support, and limited market access.
-Image suggestion: A striking aerial view of Lake Victoria with fishermen casting nets.
 
 Slide 2: Problem
 Declining fish stocks due to overfishing and pollution.
@@ -14,7 +13,6 @@ Limited access to quality feed, fingerlings, and training.
 Post-harvest losses (up to 30%) due to poor storage.
 
 Lack of direct market access – farmers often exploited by middlemen.
-Image suggestion: Fish farmers struggling with empty nets or small catches.
 
 Slide 3: Solution
 AquaProsper Africa provides an integrated platform for fish farmers:
@@ -26,7 +24,7 @@ Access to affordable, high-quality feed & fingerlings.
 Cold storage and processing solutions.
 
 Digital marketplace connecting farmers directly to buyers.
-Image suggestion: Infographic of the ecosystem (training → farming → storage → marketplace).
+
 
 Slide 4: Product
 Mobile App & Platform: Advisory services, market prices, training videos.
@@ -36,7 +34,6 @@ Farmer Support Centers: On-the-ground supply & training hubs.
 Smart Cold Storage: Solar-powered storage reducing post-harvest loss.
 
 Marketplace Access: Connecting farmers with restaurants, exporters & local buyers.
-Image suggestion: Screenshots of an app mockup + cold storage facility photo.
 
 Slide 5: Target Market
 Small-scale fish farmers around Lake Victoria (Kenya, Uganda, Tanzania).
@@ -44,7 +41,6 @@ Small-scale fish farmers around Lake Victoria (Kenya, Uganda, Tanzania).
 Restaurants, hotels, and fish processing companies needing consistent supply.
 
 Export markets demanding sustainable fish.
-Image suggestion: A map highlighting the Lake Victoria basin.
 
 Slide 6: Market Size
 3 million+ small-scale fish farmers in the Lake Victoria region.
@@ -52,7 +48,7 @@ Slide 6: Market Size
 Annual fish trade value in East Africa: $600M+.
 
 Export demand for tilapia & Nile perch is rising by 7% annually.
-Image suggestion: Graph showing TAM (Total Available Market) and SAM (Serviceable Market).
+
 
 Slide 7: Competitors
 Local fish cooperatives.
@@ -61,7 +57,7 @@ NGOs offering limited support.
 
 Importers of frozen fish.
 Weaknesses of competitors: fragmented, unsustainable, no integrated digital solution.
-Image suggestion: Comparison table of competitors vs AquaProsper.
+
 
 Slide 8: Competitive Advantage
 End-to-end solution (training, inputs, storage, market access).
@@ -71,7 +67,6 @@ Technology-driven (mobile marketplace + advisory AI).
 Sustainability focus (solar storage, restocking programs).
 
 Farmer-first approach (profit-sharing and fair trade).
-Image suggestion: Icon-based advantages.
 
 Slide 9: Traction & Roadmap
 Pilot success: 500 farmers onboarded in Kisumu, Kenya.
@@ -81,7 +76,7 @@ Partnerships: Local cooperatives + Ministry of Fisheries.
 Next 12 months: Scale to 5,000 farmers, launch 3 farmer hubs.
 
 3-year goal: Reach 100,000 farmers across Lake Victoria region.
-Image suggestion: Timeline graphic with milestones.
+
 
 Slide 10: Business/Revenue Model
 Revenue streams:
