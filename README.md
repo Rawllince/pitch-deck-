@@ -1,14 +1,4 @@
 technology gamma and ppowerpoint
-Skip to content
-Chat history
-
-Open sidebar
-
-ChatGPT
-You said:
-produce slides of a company that wants to empower fish farmers by providing support to them and offering solutions to probems they face as fish farmers along the shores of lake victoria as well as in lake victoria. start by giving a catchy phrase with statistics. include a company name and the following 12 Slides to Include in a Pitch Deck Your pitch deck should include the following essential slides:ProblemSolutionProductTarget MarketMarket SizeCompetitorsCompetitive AdvantageTraction & RoadmapBusiness/Revenue ModelGo-to-Market StrategyOur Ask (funding needs or requests)The Team
-ChatGPT said:
-Here’s a full pitch deck draft for your company idea. I’ll structure it slide by slide, with suggested content, catchy phrasing, and images you could include.
 
 Pitch Deck: AquaProsper Africa
 Slide 1: Catchy Phrase / Intro
